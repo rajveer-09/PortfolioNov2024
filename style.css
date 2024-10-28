@@ -81,7 +81,6 @@ display: none;
 #h-btn2{
     height: auto;
     width: auto;
-    margin-right: -6rem;
 }
 .h-btn:hover {
     background: var(--main-color);
